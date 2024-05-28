@@ -1,16 +1,17 @@
-<h1 align="center">Hello I'm Jin,  A hatching software engineer</h1>
-<h3 align="center">I am a recent graduate actively seeking an entry-level opportunity !</h3>
+<h1 align="center">Hello I'm Jin,  A hatching software engineer🐣</h1>
 
-<br>
 
-<h4>Contact Me </h4>
+<h4>About Me </h4>
 
-<a href="https://linkedin.com/in/jingyu1993" target="_blank">
-  <img align="left" alt="Jin's Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin" />
-</a>
-<a href="mailto:ojg1993@gmail.com" target="_blank">
-  <img align="left" alt="Jin's Email" width="22px" src="https://cdn.simpleicons.org/gmail" />
-</a>
+<p>
+A recently graduated software engineer transitioning from a background in facility/safty engineering, I'm excited to kickstart my career in the software development field. Currently seeking an entry-level opportunity to pivot successfully.
+
+I have a foundation in Python, with a focus on backend development using Django and Django REST Framework(DRF). Additionally, I have explored SQL, databases, and deployment tools such as Docker, GitHub Actions, Nginx, and AWS. Through web development projects, I've gained practical experience in various web development technologies. While my experience with JavaScript, React, and Bootstrap is at a fundamental level, I'm eager to continue learning and improving.
+
+Driven by a passion for continuous learning, I'm enthusiastic about joining a dynamic team where I can further enhance my skills and contribute effectively.
+</p>
+
+
 
 <br>
 <h3 align="left">Languages and Tools</h3>
