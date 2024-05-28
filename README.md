@@ -74,8 +74,8 @@ Driven by a passion for continuous learning, I'm enthusiastic about joining a dy
 <h3 align="left">Github Stats</h3>
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojg1993&show_icons=true&theme=gotham&locale=en&layout=compact" alt="ojg1993" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojg1993&show_icons=true&theme=gotham&locale=en&layout=compact" alt="ojg1993" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ojg1993&show_icons=true&theme=gotham&locale=en" alt="ojg1993" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ojg1993&show_icons=true&theme=gotham&locale=en" alt="ojg1993" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojg1993&theme=gotham" alt="ojg1993" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojg1993&theme=gotham" alt="ojg1993" /></p>
