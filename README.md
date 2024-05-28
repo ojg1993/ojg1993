@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Jin ! a hatching software engineer🐣</h1>
 
 
-<h4>About Me </h4>
+<h3>About Me</h3>
 
 <p>
 A recently graduated software engineer transitioning from a background in facility/safty engineering, I'm excited to kickstart my career in the software development field. Currently seeking an entry-level opportunity to pivot successfully.
@@ -71,7 +71,7 @@ Driven by a passion for continuous learning, I'm enthusiastic about joining a dy
 
 <br>
 
-<h3 align="left">My Github Stats</h3>
+<h3 align="left">Github Stats</h3>
 
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojg1993&show_icons=true&theme=gotham&locale=en&layout=compact" alt="ojg1993" /></p>
