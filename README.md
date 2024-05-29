@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Jin ! a hatching software engineer🐣</h1>
+<h1 align="center">Hello, I'm Jin A Hatching Software Engineer</h1>
 
 
 <h3>About Me</h3>
