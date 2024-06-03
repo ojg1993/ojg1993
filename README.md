@@ -1,10 +1,10 @@
-<h1 align="center">Hello, I'm Jin A Hatching Software Engineer</h1>
+<h1 align="center">Hello, I'm Jin, a Hatching Software Engineer</h1>
 
 
 <h3>About Me</h3>
 
 <p>
-A recently graduated software engineer transitioning from a background in facility/safty engineering, I'm excited to kickstart my career in the software development field. Currently seeking an entry-level opportunity to pivot successfully.
+A recently graduated software engineer transitioning from a background in facility and safety engineering, I'm excited to kickstart my career in the software development field. Currently seeking an entry-level opportunity to pivot successfully.
 
 I have a foundation in Python, with a focus on backend development using Django and Django REST Framework(DRF). Additionally, I have explored SQL, databases, and deployment tools such as Docker, GitHub Actions, Nginx, and AWS. Through web development projects, I've gained practical experience in various web development technologies. While my experience with JavaScript, React, and Bootstrap is at a fundamental level, I'm eager to continue learning and improving.
 
@@ -29,11 +29,11 @@ Driven by a passion for continuous learning, I'm enthusiastic about joining a dy
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
 
@@ -45,11 +45,11 @@ Driven by a passion for continuous learning, I'm enthusiastic about joining a dy
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -58,11 +58,11 @@ Driven by a passion for continuous learning, I'm enthusiastic about joining a dy
 
 <h4 align="left">Tools</h4>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github actions" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
