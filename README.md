@@ -4,11 +4,11 @@
 <h3>About Me</h3>
 
 <p>
-A recently graduated software engineer transitioning from a background in facility and safety engineering, I'm excited to kickstart my career in the software development field. Currently seeking an entry-level opportunity to pivot successfully.
+A recently graduated software engineer transitioning from a background in facility and safety engineering. I'm excited to kickstart my career in the software development field. Currently seeking an entry-level opportunity.
 
-I have a foundation in Python, with a focus on backend development using Django and Django REST Framework(DRF). Additionally, I have explored SQL, databases, and deployment tools such as Docker, GitHub Actions, Nginx, and AWS. Through web development projects, I've gained practical experience in various web development technologies. While my experience with JavaScript, React, and Bootstrap is at a fundamental level, I'm eager to continue learning and improving.
+I have a foundation in Python, with a focus on backend development mainly using Django and Django REST Framework. Additionally, I have explored SQL, databases, and deployment tools such as Docker, GitHub Actions, Nginx, and AWS. Through web development projects, I've gained practical experience in various web development technologies. While my experience with Bootstrap, JavaScript and React is at a fundamental level, I'm eager to continue learning and improving.
 
-Driven by a passion for continuous learning, I'm enthusiastic about joining a dynamic team where I can further enhance my skills and contribute effectively.
+I'm enthusiastic about joining a dynamic team where I can contribute while continuing to develop my skills in collaboration with the team.
 </p>
 
 
